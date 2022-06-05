@@ -1,4 +1,4 @@
-# flutter_newsapp
+# Flutter_news
 
 A Flutter application to show news from [News API](https://newsapi.org)
 
